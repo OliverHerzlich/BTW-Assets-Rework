@@ -1,2 +1,2 @@
 # BTW-Assets-Rework
-Assets, sprites and textures rework for Better Than Wolves
+Assets, sprites and textures for Better Than Wolves
